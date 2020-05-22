@@ -1,6 +1,8 @@
 Отзывы о медучреждениях
 =======================
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Датасет содержит пользовательские отзывы о медицинских учреждениях.
 
 Датасет собран в мае 2019 года с сайта prodoctorov.ru

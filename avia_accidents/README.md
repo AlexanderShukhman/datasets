@@ -1,5 +1,6 @@
-
 # Авиакатастрофы
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Датасет авиакрушений с 1908 по 5 мая 2019 гг. Был спарсен с сайта: http://www.planecrashinfo.com/
 
@@ -17,9 +18,3 @@
 * **Fatalities:**	 Total fatalities aboard (passengers / crew)
 * **Ground:**	 Total killed on the ground
 * **Summary:**	 Brief description of the accident and cause if known
-
-
-
-```python
-
-```
